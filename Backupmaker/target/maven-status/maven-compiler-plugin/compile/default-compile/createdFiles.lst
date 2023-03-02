@@ -1,0 +1,11 @@
+hu\vodafone\OIT\lostDevices\DatabaseMethodsInterface.class
+hu\vodafone\OIT\mail\LostDataMail$1.class
+hu\vodafone\OIT\dataexport\Dataexport.class
+hu\vodafone\OIT\lostDevices\DBMImp.class
+hu\vodafone\OIT\mail\MailEntity.class
+hu\vodafone\OIT\mail\LostDataMail.class
+hu\vodafone\OIT\mail\MailEntity$1.class
+hu\vodafone\OIT\mail\ExcelOps.class
+hu\vodafone\OIT\App.class
+hu\vodafone\OIT\dataexport\FetchMail.class
+hu\vodafone\OIT\lostDevices\DatabaseConnection.class

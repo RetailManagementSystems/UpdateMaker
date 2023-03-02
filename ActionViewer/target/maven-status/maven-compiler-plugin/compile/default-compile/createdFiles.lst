@@ -1,0 +1,11 @@
+hu\vodafone\actionview\database\DbConnection.class
+hu\vodafone\actionview\actions\Scheduler$MyTimeTask.class
+hu\vodafone\actionview\App.class
+hu\vodafone\actionview\actiongetFromDB\UpdateToDB.class
+hu\vodafone\actionview\actions\ActionsImp$1.class
+hu\vodafone\actionview\actions\Scheduler$1.class
+hu\vodafone\actionview\actiongetFromDB\ActionGetFromDb.class
+hu\vodafone\actionview\actions\ActionsInterface.class
+hu\vodafone\actionview\actions\ActionsImp.class
+hu\vodafone\actionview\actions\Scheduler.class
+hu\vodafone\actionview\readWrite\ReadWrite.class
