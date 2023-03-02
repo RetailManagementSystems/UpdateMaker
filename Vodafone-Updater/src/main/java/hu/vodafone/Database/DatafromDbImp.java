@@ -103,6 +103,7 @@ public class DatafromDbImp implements DatafromDb {
         }
         else if (serialinTheDB == true && ipInTheDB != true) {
             databaseManipulationInterface.updateDeviceIP(hostname);
+            System.out.println("hostname:  "+hostname+"IP cim:    "+databaseManipulationInterface.getIP());
             System.out.println("Fel lett frissítve az IP UPDATE VOLT");
             isInTheDatabaseWithSameAttributes = true;
         }
