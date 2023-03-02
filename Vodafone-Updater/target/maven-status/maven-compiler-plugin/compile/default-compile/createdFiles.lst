@@ -1,0 +1,9 @@
+hu\vodafone\ReadWriteData\ReadWriteImp.class
+hu\vodafone\Database\DatabaseManipulationInterface.class
+hu\vodafone\Database\DatabaseConnection.class
+hu\vodafone\ReadWriteData\ReadWriteInt.class
+hu\vodafone\App.class
+hu\vodafone\Database\DatafromDbImp.class
+hu\vodafone\versionControll\VersionControllImp.class
+hu\vodafone\Database\DatafromDb.class
+hu\vodafone\Database\DatabaseManipulationImplementation.class
