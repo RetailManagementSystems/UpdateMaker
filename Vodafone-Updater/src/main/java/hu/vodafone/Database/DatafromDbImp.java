@@ -52,7 +52,7 @@ public class DatafromDbImp implements DatafromDb {
         String uuid = readWriteInt.readUUID();
         return uuid;
     }
-
+//innentől
     public Boolean checkIP(String ip) {
         Boolean ipIsInTheDatase = false;
         for (int i = 0; i < ips.size(); i++) {
@@ -113,7 +113,7 @@ public class DatafromDbImp implements DatafromDb {
         }
         return isInTheDatabaseWithSameAttributes;
     }
-
+//idáig lehet a hiba nézd át a kódot, logikailag
     @Override
     public String getVersionFromDatabase() {
         String version = "";
